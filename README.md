@@ -47,12 +47,10 @@ endmodule
 **Output:**
 
 **RTL realization**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89c0bdd3-de75-4c94-bdc1-b2cf50a79848" />
-)
+![alt text](<Screenshot 2025-11-17 135348.png>)
 
 **RTL**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcfa8490-1288-48ee-8745-243782248a30" />
-
+![alt text](<Screenshot 2025-11-17 135920.png>) 
 
 **Result:**
 
